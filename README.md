@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on projects for my CIS 3500 Software Engineering Course<br><br>I'm interested in possibly building an AI sports betting algorithm with a UI <br><br>I am currently fluent in Java and Python but would love to learn React<br><br>A fun fact about me is that I like to DJ
+I'm currently working on projects for my CIS 3500 Software Engineering Course as well as a sports betting AI arbitrage algorithm using AI. <br><br>I'm currently exploring FastAPI, TensorFlow, React Native, and more <br><br>My favorite programming language is Python, but my first was Java<br><br>A fun fact about me is that I love to DJ
 
 
 ## 🌐 Socials:
