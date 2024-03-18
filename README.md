@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on projects for my CIS 3500 Software Engineering Course as well as a sports betting AI arbitrage algorithm using AI. <br><br>I'm currently exploring FastAPI, TensorFlow, React Native, and more <br><br>My favorite programming language is Python, but my first was Java<br><br>A fun fact about me is that I love to DJ
+I'm currently working on projects for my CIS 3500 Software Engineering Course as well as a sports betting AI arbitrage algorithm using AI <br><br>I'm actively exploring FastAPI, TensorFlow, React Native, and more <br><br>My favorite programming language is Python, but my first was Java<br><br>A fun fact about me is that I love to DJ
 
 
 ## 🌐 Socials:
