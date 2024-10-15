@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in my fifth semester at UPenn, taking classes on AI, Advanced Programming, Human Computation, and Linear Algebra <br><br>I'm actively exploring Haskell, React Native, and more <br><br>My favorite programming language is Python, but my first was Java<br><br>A fun fact about me is that I love to DJ
+I'm currently in my fifth semester at UPenn, taking classes on AI, Advanced Programming, Human Computation, and Linear Algebra <br><br>I'm actively exploring Haskell, Flutter, and more <br><br>My favorite programming language is Python, but my first was Java<br><br>A fun fact about me is that I love to DJ
 
 
 ## 🌐 Socials:
